@@ -1,16 +1,8 @@
-# FONT
-用于储存字体的新地方
+# 版权信息
 
-=============================
-tsanger 仓耳字体系列
-=============================
-by 仓耳字库
-免费商用
-http://tsanger.cn
+#### tsanger 仓耳字体系列
+免费商用 http://tsanger.cn
 
 
-=============================
-nzgr 润植家字体  
-=============================
-免费商用
-https://www.runzhijia.art/nzgrfonts/nzgrfonts.html
+#### nzgr 润植家字体 系列
+免费商用 https://www.runzhijia.art/nzgrfonts/nzgrfonts.html

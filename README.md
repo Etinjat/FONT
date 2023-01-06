@@ -1,10 +1,13 @@
 # 版权信息
 
-#### tsanger 仓耳字体系列
-免费商用 http://tsanger.cn
+## 演示系列 slide
+by 人生哥 x 刘锡栋
+免费商用
+* 演示夏行楷 slidexiaxing
+  * https://mp.weixin.qq.com/s/CRnRsYu8ymlG9_oK6wmBag
+* 演示悠然小楷  slideyouran
+  * https://mp.weixin.qq.com/s/Q1lAIre4yJ-Zlf2CD82EPA
 
-
-#### nzgr 润植家字体 系列
-免费商用 https://www.runzhijia.art/nzgrfonts/nzgrfonts.html
-
-ps：刻本简体为v0.6
+## 鸿雷行书简体 hongleixingshu
+* by 鸿雷 
+* 免费商用 https://www.runzhijia.art/nzgrfonts/nzgrfonts.html

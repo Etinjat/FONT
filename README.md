@@ -1,10 +1,6 @@
 # 版权信息
 
-#### tsanger 仓耳字体系列
-免费商用 http://tsanger.cn
+#### PF频凡胡涂体 PFanHuTuTi  （v0.44）
+* by 笑频书
+* 免费商用 http://www.lofter.com/lpost/73b5c148_2b514fff1
 
-
-#### nzgr 润植家字体 系列
-免费商用 https://www.runzhijia.art/nzgrfonts/nzgrfonts.html
-
-ps：刻本简体为v0.6

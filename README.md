@@ -11,3 +11,8 @@ by 人生哥 x 刘锡栋
 ## 鸿雷行书简体 hongleixingshu
 * by 鸿雷 
 * 免费商用 https://www.runzhijia.art/nzgrfonts/nzgrfonts.html
+
+## 莫大毛笔体 Bakudai
+* by Max，基于衡山毛笔体（衡山毛筆フォント）
+* SIL Open Font License 1.1
+* https://max-everyday.com/2020/03/bakudaifont/

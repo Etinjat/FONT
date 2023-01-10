@@ -1,7 +1,7 @@
 # 毛笔字体
 ## 演示系列 slide
-by 人生哥 x 刘锡栋
-免费商用
+* by 人生哥 x 刘锡栋
+  * 免费商用
 * 演示夏行楷 slidexiaxing
   * https://mp.weixin.qq.com/s/CRnRsYu8ymlG9_oK6wmBag
 * 演示悠然小楷  slideyouran

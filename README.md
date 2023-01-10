@@ -1,5 +1,4 @@
-# 版权信息
-
+# 毛笔字体
 ## 演示系列 slide
 by 人生哥 x 刘锡栋
 免费商用
@@ -16,3 +15,8 @@ by 人生哥 x 刘锡栋
 * by Max，基于衡山毛笔体（衡山毛筆フォント）
 * SIL Open Font License 1.1
 * https://max-everyday.com/2020/03/bakudaifont/
+
+## 三极泼墨体
+* by 三极字库
+* 免费商用
+* https://mp.weixin.qq.com/s/-Mgg_BjyFzzOWjdkkWs_pA
